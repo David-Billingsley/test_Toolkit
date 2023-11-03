@@ -2,7 +2,7 @@ package toolkit
 
 import "crypto/rand"
 
-const randomStringSource = "+-*/"
+const randomStringSource = "aaZZAAzz
 
 type Tools struct {
 }
